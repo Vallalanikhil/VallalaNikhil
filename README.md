@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 * 🔭 I’m currently working on Application Development
-* 🌱 I’m currently learning Angular,Node.js
+* 🌱 I’m currently learning Spring,Hibernate
 * 👯 I’m looking to collaborate on Web Dev Projects
 * 💬 Ask me about:
   - Java
