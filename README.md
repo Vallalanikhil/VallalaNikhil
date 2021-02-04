@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   - Java
   - SQL
   - Javascript
-  - Advice/Event Planning
+  - Advice/Organising
 * 📫 How to reach me:
   - LinkedIn: [NikhilVallala](https://www.linkedin.com/in/nikhil-vallala-58a546183/)
 * 😄 Pronouns: He/Him
