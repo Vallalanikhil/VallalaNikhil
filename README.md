@@ -7,9 +7,12 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on Web Dev Projects
 * 💬 Ask me about:
   - Java
+  - PEGA
   - SQL
   - Javascript
   - Advice/Organising
+
+Certified in PEGA As Senior System Architect| System Architect
 * 📫 How to reach me:
   - LinkedIn: [NikhilVallala](https://www.linkedin.com/in/nikhil-vallala-58a546183/)
 * 😄 Pronouns: He/Him
