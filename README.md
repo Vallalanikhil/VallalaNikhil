@@ -14,7 +14,7 @@ Got it! Here's the updated GitHub README with the corrected links and a concise 
 
 ## 👨‍💻 About Me
 
-I am a **software professional** with over **8 years of experience** in the software development lifecycle (SDLC), specializing in **Full-Stack Development**, **Cloud Computing**, and **Microservices Architecture**. I have a strong background in building scalable, high-performance applications using modern technologies like **Java**, **Spring Boot**, **ReactJS**, **Angular**, and **AWS**. My expertise spans across **UI/UX development**, **backend services**, **database management**, and **cloud infrastructure**.
+I am a **software professional** with over **6 years of experience** in the software development lifecycle (SDLC), specializing in **Full-Stack Development**, **Cloud Computing**, and **Microservices Architecture**. I have a strong background in building scalable, high-performance applications using modern technologies like **Java**, **Spring Boot**, **ReactJS**, **Angular**, and **AWS**. My expertise spans across **UI/UX development**, **backend services**, **database management**, and **cloud infrastructure**.
 
 ---
 
